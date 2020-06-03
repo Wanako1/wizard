@@ -1,7 +1,7 @@
 # Site settings
 title:Wanako1 Kodi Wizard
 email:wanako1@gmail.com
-description: > # Always Sharing th Best "baseurl:"
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
